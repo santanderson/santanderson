@@ -1,6 +1,6 @@
 <h1 align="center">What's up 👋</h1>
 <p align="center">
-- 🌱 I’m currently learning React.js
+- 🌱 Welcome to my Github, you can see some projects in repositories' tab
   <br/>
   <img src="icon.svg" width="30%" height="30%">
 </p>
