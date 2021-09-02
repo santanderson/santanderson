@@ -5,4 +5,4 @@ I'm Antony, a 18 years old web developer who has:
 - Experienced with Babel.js and Bootstrap 🐱‍👤
 - Soft skills such as Git and auto deploy 🔁
 - Familiarity with JS libraries and SQL basics ⚔
-- And a lot o of projects with them 🔢
+- And a lot of projects with them 🔢
