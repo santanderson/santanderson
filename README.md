@@ -9,7 +9,6 @@ I'm Antony, a 18 years old web developer who has:
 
  <div>
   <a href="https://github.com/AntonyOnScript">
-[![AntonyOnScript's github stats](https://github-readme-stats.vercel.app/api?username=AntonyOnScript&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyOnScript&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
-   
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=AntonyOnScript&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyOnScript&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
