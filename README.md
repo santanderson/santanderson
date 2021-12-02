@@ -6,10 +6,10 @@ I'm Antony, a 18 years old web developer who has:
 - Soft skills such as Git and heroku 🔁
 - Familiarity with JS libraries, Mongo DB, SQL basics ⚔
 - And a lot of projects with them 🔢
-
+<br>
  <div style="width: 100%">
-   <img style="min-width: 100%;" height:"110em" src="https://github-readme-stats.vercel.app/api?username=AntonyOnScript&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+   <img style="min-width: 100%;" height:"100%" src="https://github-readme-stats.vercel.app/api?username=AntonyOnScript&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
  </div>
  <div style="width: 100%">
-   <img style="min-width: 100%;" height:"110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyOnScript&layout=compact&langs_count=7&theme=github_dark"/>
+   <img style="min-width: 100%;" height:"100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyOnScript&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
