@@ -8,7 +8,7 @@ I'm Antony, a 18 years old web developer who has:
 - And a lot of projects with them 🔢
 
  <div>
-  <a href="https://github.com/AntonyOnScript">
    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=AntonyOnScript&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyOnScript&layout=compact&langs_count=7&theme=github_dark"/>
+   
 </div>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyOnScript&layout=compact&langs_count=7&theme=github_dark"/>
