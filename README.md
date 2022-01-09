@@ -7,11 +7,13 @@ I'm Antony, a 18 years old web developer who has:
 - Familiarity with JS libraries, Mongo DB, SQL basics ⚔
 - And a lot of projects with them 🔢
 <br>
-<a href="https://github.com/AntonyOnScript">
- <div style="width: 100%">
-   <img style="min-width: 100%;" height:"100%" src="https://github-readme-stats.vercel.app/api?username=AntonyOnScript&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
- </div>
- <div style="width: 100%">
-   <img style="min-width: 100%;" height:"100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyOnScript&layout=compact&langs_count=7&theme=github_dark"/>
+<h1 align="center">📈</h1>
+<div align="center">
+  
+  <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=AntonyOnScript&theme=vue" />
+  <br/>
+  <br/>
+  <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonyOnScript&layout=compact&langs_count=8&theme=vue" />
+  
 </div>
 </a>
