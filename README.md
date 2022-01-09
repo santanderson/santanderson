@@ -8,6 +8,7 @@ I'm Antony, a 18 years old web developer who has:
 - And a lot of projects with them 🔢
 <br>
 <h1 align="center">📈</h1>
+<br>
 <div align="center">
   
   <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=AntonyOnScript&theme=vue" />
