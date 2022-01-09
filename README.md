@@ -6,7 +6,6 @@ I'm Antony, a 18 years old web developer who has:
 - Soft skills such as Git and heroku 🔁
 - Familiarity with JS libraries, Mongo DB, SQL basics ⚔
 - And a lot of projects with them 🔢
-<br>
 <h1 align="center">📈</h1>
 <br>
 <div align="center">
