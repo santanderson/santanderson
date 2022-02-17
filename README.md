@@ -1,7 +1,7 @@
 # What's up ! 👋🏻
 I'm Antony, a 18 years old web developer who has: 
 
-- A deep and solid knowledge with HTML, CSS, Javascript ( including Node.js ), Vue and pure PHP 👨🏻‍💻
+- A deep and solid knowledge with HTML, CSS, Javascript ( including Node.js ), Vue and PHP 👨🏻‍💻
 - Experienced with Babel.js, Wordpress, Bootstrap and REST API 🐱‍👤
 - Soft skills such as Git and heroku 🔁
 - Familiarity with JS libraries, Mongo DB, SQL basics ⚔
