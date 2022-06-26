@@ -1,6 +1,6 @@
 # What's up ! 👋🏻
-<em>I'm Antony, a 18 years old web developer. Currently working on <a href="https://pandavideo.com.br/" target="_blank">Panda Video</a> | [Javascript ES6, Vue.js, PHP, Node.js, Wordpress, Docker].</em>
-<h1 align="center">📈</h1>
+<em>I'm Antony, a 18 years old web developer. Currently working on <a href="https://pandavideo.com.br/" target="_blank">Panda Video</a>.</em>
+<h1 align="center">[Fullstack developer]</h1>
 <br>
 <div align="center">
   
