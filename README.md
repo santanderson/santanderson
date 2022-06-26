@@ -1,4 +1,3 @@
-<h1 align="center">[Fullstack developer]</h1><br />
 <em align="center">I'm Antony, a 18 years old web developer. Currently working on <a href="https://pandavideo.com.br/" target="_blank">Panda Video</a>.</em>
 <h1 align="center">[Fullstack developer]</h1>
 <br>
