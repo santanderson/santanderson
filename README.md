@@ -1,4 +1,4 @@
-<h1 align="center">[React.js Frontend Developer]</h1>
+<h1 align="center">[Frontend Developer]</h1>
 <br />
 <div align="center"><em>Olá me chamo Anderson e me interesso por React!</div>
 <br />
