@@ -1,6 +1,6 @@
 <h1 align="center">[Frontend Developer]</h1>
 <br />
-<div align="center"><em>Olá me chamo Anderson e me interesso por React!</div>
+<div align="center"><em>Olá me chamo Anderson e me interesso por NodeJs!</div>
 <br />
 <div align="center">
   <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=santanderson&theme=algolia" />
